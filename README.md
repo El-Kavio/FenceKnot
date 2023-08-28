@@ -2,7 +2,7 @@
 
 ![FenceKnot banner](https://github.com/El-Kavio/FenceKnot/assets/140896938/6af00ba2-08e2-4daa-bd72-20d27649e13e)
 
-**FenceKnot** is a **datapack** that **allows** you to put **knots** on your **fences** in an **easier** way than normal! (<abbr title="Usually you leash mobs and get rid of them :c">no more sacrifices!</abbr>)
+**FenceKnot** is a **datapack** that **allows** you to put **knots** on your **fences** in an **easier** way than normal! (no more sacrifices!)
 
 ## Commands
 
